@@ -7,7 +7,7 @@ namespace c_topics
     {
         static void Main()
         {
-            Stack<int> stack = new Stack<int>();  // Built-in stack
+            Stack<int> stack = new Stack<int>();  //Stack used
             bool inThese = true;
 
             while (inThese)
