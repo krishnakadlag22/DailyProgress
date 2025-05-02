@@ -1,4 +1,4 @@
-MyQueue mq = new MyQueue(5);
+MyQueue mq = new MyQueue(5);//Queue initialzed 
 mq.Enqueue(10);
 mq.Enqueue(20);
 mq.Enqueue(30);
